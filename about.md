@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Daniel Brito, I'm a senior studing CS at NYU.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Some facts about me: I studied abroad in Florence, am orignally from Miami, and enjoy playing sports in my freetime.
 
