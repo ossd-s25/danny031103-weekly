@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Jan 31   | [link to my contribution](https://en.wikipedia.org/wiki/Special:Contributions/Danny031103)    | Wikipedia   |   I added information about a crab species that was missing.    |
 |     |     |     |      |
 |     |     |     |      |
