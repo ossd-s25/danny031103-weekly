@@ -4,9 +4,20 @@ title: About
 permalink: /about/
 ---
 
-My name is Daniel Brito, I'm a senior studing CS at NYU.
+My name is Daniel Brito, I'm a senior studing CS at NYU.  
 
-### More Information
+### Fun Facts
+-I studied abroad in Florence  
+-I'm orignally from Miami  
 
-Some facts about me: I studied abroad in Florence, am orignally from Miami, and enjoy playing sports in my freetime.
+### Interests
+-Reef Keeping  
+-Fishing  
+-Scuba Diving  
+-Rock Climbing  
+-Snowboarding  
+-Basketball  
+
+### Website
+(Here's)[https://danielbritooo.vercel.app] a link to my personal website!  
 
