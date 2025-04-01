@@ -35,6 +35,3 @@ Replace the first row with your own contribution.
 | Apr 3   | [link to my contribution](https://www.oppia.org/contributor-dashboard)    | Oppia   |   Translated math lesson to spanish |
 |     |     |     |      |
 |     |     |     |      |
-
-
-https://www.oppia.org/contributor-dashboard
