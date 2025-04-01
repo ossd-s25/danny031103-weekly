@@ -30,6 +30,8 @@ Replace the first row with your own contribution.
 | Mar 15   | [link to my contribution](https://www.openstreetmap.org/changeset/163671011#map=19/25.585329/-80.408471)    | OpenStreetMap   |   Added detail to map (building) |
 | Apr 1   | [link to my contribution](https://www.openstreetmap.org/changeset/164391686)    | OpenStreetMap   |   Added location to map (gym) |
 | Apr 1   | [link to my contribution](https://www.openstreetmap.org/changeset/164391805)    | OpenStreetMap   |   Added location to map (pizza shop) |
+| Apr 1   | [link to my contribution](https://www.openstreetmap.org/changeset/164391946)    | OpenStreetMap   |   Added location to map (bank) |
+| Apr 2   | [link to my contribution](https://www.openstreetmap.org/changeset/164392013)    | OpenStreetMap   |   Added location to map (park) |
 |     |     |     |      |
 |     |     |     |      |
 
