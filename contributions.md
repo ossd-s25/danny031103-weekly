@@ -32,7 +32,9 @@ Replace the first row with your own contribution.
 | Apr 1   | [link to my contribution](https://www.openstreetmap.org/changeset/164391805)    | OpenStreetMap   |   Added location to map (pizza shop) |
 | Apr 1   | [link to my contribution](https://www.openstreetmap.org/changeset/164391946)    | OpenStreetMap   |   Added location to map (bank) |
 | Apr 2   | [link to my contribution](https://www.openstreetmap.org/changeset/164392013)    | OpenStreetMap   |   Added location to map (park) |
+| Apr 3   | [link to my contribution](https://www.oppia.org/contributor-dashboard)    | Oppia   |   Translated math lesson to spanish |
 |     |     |     |      |
 |     |     |     |      |
 
 
+https://www.oppia.org/contributor-dashboard
