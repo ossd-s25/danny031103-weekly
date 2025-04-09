@@ -33,6 +33,7 @@ Replace the first row with your own contribution.
 | Apr 1   | [link to my contribution](https://www.openstreetmap.org/changeset/164391946)    | OpenStreetMap   |   Added location to map (bank) |
 | Apr 2   | [link to my contribution](https://www.openstreetmap.org/changeset/164392013)    | OpenStreetMap   |   Added location to map (park) |
 | Apr 3   | [link to my contribution](https://www.oppia.org/contributor-dashboard)    | Oppia   |   Translated math lesson to spanish |
-| Apr 9   | [link to my contribution](https://github.com/ossd-s25/Currency-Unit-Converter/pull/3)    | Code   |  Expanded currency conversion feature |
+| Apr 9   | [link to my contribution](https://github.com/ossd-s25/Currency-Unit-Converter/pull/3)    | CODE   |  Expanded currency conversion feature |
+| Apr 10   | [link to my contribution](https://www.openstreetmap.org/changeset/164730215#map=15/25.59163/-80.40501)    | OpenStreetMap   |  Added Rinconcito to map  |
 |     |     |     |      |
 |     |     |     |      |
