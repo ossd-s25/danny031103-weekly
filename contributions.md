@@ -34,6 +34,7 @@ Replace the first row with your own contribution.
 | Apr 2   | [link to my contribution](https://www.openstreetmap.org/changeset/164392013)    | OpenStreetMap   |   Added location to map (park) |
 | Apr 3   | [link to my contribution](https://www.oppia.org/contributor-dashboard)    | Oppia   |   Translated math lesson to spanish |
 | Apr 9   | [link to my contribution](https://github.com/ossd-s25/Currency-Unit-Converter/pull/3)    | CODE   |  Expanded currency conversion feature |
-| Apr 10   | [link to my contribution](https://www.openstreetmap.org/changeset/164730215#map=15/25.59163/-80.40501)    | OpenStreetMap   |  Added Rinconcito to map  |
+| Apr 9   | [link to my contribution](https://www.openstreetmap.org/changeset/164730215#map=15/25.59163/-80.40501)    | OpenStreetMap   |  Added Rinconcito to map  |
+| Apr 10   | [link to my contribution](https://www.openstreetmap.org/changeset/164733663#map=19/25.604231/-80.414307)    | OpenStreetMap   |  Added pizzahut to map  |
 |     |     |     |      |
 |     |     |     |      |
