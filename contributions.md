@@ -38,4 +38,6 @@ Replace the first row with your own contribution.
 | Apr 10   | [link to my contribution](https://www.openstreetmap.org/changeset/164733663#map=19/25.604231/-80.414307)    | OpenStreetMap   |  Added pizzahut to map  |
 | Apr 11   | [link to my contribution](https://github.com/ossd-s25/Currency-Unit-Converter/pull/3)    | CODE   |  Improved layout for currency converter  |
 | Apr 20   | [link to my contribution](https://www.openstreetmap.org/changeset/161545361#map=15/25.62787/-80.40876)    | OSM Comment   |  Commented on inaccurate change  |
-| Apr 20   | [link to my contribution](https://github.com/ossd-s25/Currency-Unit-Converter/pull/3)    | Readme-Code   |  updated readme with currency  |
+| Apr 20   | [link to my contribution](https://github.com/ossd-s25/Currency-Unit-Converter/pull/3)    | Readme-CODE   |  Updated readme with currency  |
+| Apr 20   | [link to my contribution](https://github.com/ossd-s25/websiteTimeTracker/pull/5)    | CODE   |  Added total time feature to website tracker  |
+| Apr 20   | [link to my contribution](https://github.com/ossd-s25/websiteTimeTracker/pull/5)    | CODE  | Added export data feature to website tracker |
