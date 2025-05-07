@@ -43,3 +43,4 @@ Replace the first row with your own contribution.
 | Apr 20   | [link to my contribution](https://github.com/ossd-s25/websiteTimeTracker/pull/5)    | CODE  | Added export data feature to website tracker |
 | May 5  | [link to my contribution](https://www.openstreetmap.org/changeset/165915883)    | OpenStreetMap  | Added basketball courts |
 | May 5  | [link to my contribution](https://www.openstreetmap.org/changeset/165915971#map=19/25.597582/-80.414972)    | OpenStreetMap  | Fixed error |
+| May 5  | [link to my contribution](https://github.com/mattermost/mattermost/issues/30711)    | Mattermost  | Proposed Issue Solution |
