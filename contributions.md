@@ -31,7 +31,7 @@ Replace the first row with your own contribution.
 | Apr 1   | [link to my contribution](https://www.openstreetmap.org/changeset/164391686)    | OpenStreetMap   |   Added Youfit(gym) location to map in Miami, Florida|
 | Apr 1   | [link to my contribution](https://www.openstreetmap.org/changeset/164391805)    | OpenStreetMap   |   Added Little Caesars (pizza shop) location to map in Miami, Florida |
 | Apr 1   | [link to my contribution](https://www.openstreetmap.org/changeset/164391946)    | OpenStreetMap   |   Added Bank of America (bank) location to map in Miami, Florida |
-| Apr 2   | [link to my contribution](https://www.openstreetmap.org/changeset/164392013)    | OpenStreetMap   |   Added Charles Burr (park )location to map in Miami, Florida |
+| Apr 2   | [link to my contribution](https://www.openstreetmap.org/changeset/164392013)    | OpenStreetMap   |   Added Charles Burr (park)location to map in Miami, Florida |
 | Apr 3   | [link to my contribution](https://www.oppia.org/contributor-dashboard)    | Oppia   |   Translated math lesson to Spanish on translation platform |
 | Apr 9   | [link to my contribution](https://github.com/ossd-s25/Currency-Unit-Converter/pull/3)    | CODE   |  Expanded currency conversion feature for another groups' in class browser extension exercise from another group, PR was merged!|
 | Apr 9   | [link to my contribution](https://www.openstreetmap.org/changeset/164730215#map=15/25.59163/-80.40501)    | OpenStreetMap   |  Added Rinconcito (restaraunt) location to map in Miami, Florida  |
