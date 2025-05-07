@@ -41,3 +41,5 @@ Replace the first row with your own contribution.
 | Apr 20   | [link to my contribution](https://github.com/ossd-s25/Currency-Unit-Converter/pull/3)    | Readme-CODE   |  Updated readme with currency  |
 | Apr 20   | [link to my contribution](https://github.com/ossd-s25/websiteTimeTracker/pull/5)    | CODE   |  Added total time feature to website tracker  |
 | Apr 20   | [link to my contribution](https://github.com/ossd-s25/websiteTimeTracker/pull/5)    | CODE  | Added export data feature to website tracker |
+| May 5  | [link to my contribution](https://www.openstreetmap.org/changeset/165915883)    | OpenStreetMap  | Added basketball courts |
+
